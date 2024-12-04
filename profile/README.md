@@ -9,8 +9,8 @@
 <h4 align="center">Repositories SIMEGAH Project</h4>
 
 <p align="center">
-  <a href="#projects">Projects</a>
-  <a href="#members">Members</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#members">Members</a>
 </p>
 
   <br>
