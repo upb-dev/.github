@@ -6,12 +6,26 @@
   <br>
 </h1>
 
-<h3 align="center">Repositories SIMEGAH Project</h3>
+<h4 align="center">Repositories SIMEGAH Project</h4>
 
 <p align="center">
   <a href="#members">Members</a> •
   <a href="#projects">Projects</a>
 </p>
+
+  <br>
+  <br>
+
+## Projects
+
+- [SISKERMA](https://siskerma.pelitabangsa.ac.id/)
+- [ESPMI](https://espmi.pelitabangsa.ac.id/)
+- [TANDATANGAN](https://tandatangan.pelitabangsa.ac.id/)
+- [SISTA](https://sista.pelitabangsa.ac.id/)
+- [EDPPM](https://edppm.pelitabangsa.ac.id/)
+
+  <br>
+  <br>
 
 ## Members
 
@@ -59,14 +73,3 @@
       </td>
     </tr>
 </table>
-
-  <br>
-  <br>
-
-## Projects
-
-- [SISKERMA](https://siskerma.pelitabangsa.ac.id/)
-- [ESPMI](https://espmi.pelitabangsa.ac.id/)
-- [TANDATANGAN](https://tandatangan.pelitabangsa.ac.id/)
-- [SISTA](https://sista.pelitabangsa.ac.id/)
-- [EDPPM](https://edppm.pelitabangsa.ac.id/)
